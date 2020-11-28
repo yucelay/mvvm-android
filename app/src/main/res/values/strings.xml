@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MVVM Android</string>
+    <string name="name">Name</string>
+    <string name="surname">Surname</string>
+    <string name="text_space"> </string>
+    <string name="message">Message</string>
+</resources>
